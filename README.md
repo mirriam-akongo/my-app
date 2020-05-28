@@ -1,1 +1,1 @@
-# my-app
+# counter-app
